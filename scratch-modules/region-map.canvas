@@ -1,0 +1,31 @@
+{
+	"nodes":[
+		{"id":"998f039fc4b5dca3","type":"file","file":"applications/adding-images.md","x":680,"y":-1500,"width":400,"height":400},
+		{"id":"660ad21a42a0d1f5","type":"file","file":"applications/remove-backgrounds.md","x":1320,"y":-2120,"width":400,"height":400},
+		{"id":"605c56a2190d0a50","type":"file","file":"applications/getting-started.md","x":-3200,"y":-540,"width":400,"height":400},
+		{"id":"a2bb610ddd184fc8","type":"file","file":"concepts/sprite-basics.md","x":-2320,"y":-440,"width":400,"height":400},
+		{"id":"a548846a675fa89c","x":-1360,"y":-1100,"width":400,"height":400,"type":"file","file":"concepts/event-blocks.md"},
+		{"id":"8d78f179be0c6ef7","x":-1360,"y":-340,"width":400,"height":400,"type":"file","file":"concepts/motion-blocks.md"},
+		{"id":"e05aaaf5e611bc30","x":1520,"y":-740,"width":400,"height":400,"type":"file","file":"applications/player-controls.md"},
+		{"id":"c8e596a72d6a82a6","x":800,"y":-740,"width":400,"height":400,"type":"file","file":"concepts/sensing-blocks.md"},
+		{"id":"9dfe701d394ad271","x":-40,"y":-940,"width":400,"height":400,"type":"file","file":"concepts/control-blocks.md"},
+		{"id":"22c6bc158005546c","x":680,"y":240,"width":400,"height":400,"type":"file","file":"concepts/variables-blocks.md"},
+		{"id":"2fdfd5892306d37c","x":-320,"y":-40,"width":400,"height":400,"type":"file","file":"concepts/operator-blocks.md"}
+	],
+	"edges":[
+		{"id":"d7c3ffbd1b2f4560","fromNode":"998f039fc4b5dca3","fromSide":"top","toNode":"660ad21a42a0d1f5","toSide":"left"},
+		{"id":"e127ca472a20d34d","fromNode":"605c56a2190d0a50","fromSide":"right","toNode":"a2bb610ddd184fc8","toSide":"left"},
+		{"id":"3677c7433906893f","fromNode":"9dfe701d394ad271","fromSide":"right","toNode":"c8e596a72d6a82a6","toSide":"left"},
+		{"id":"7e448fb46cfa511d","fromNode":"a2bb610ddd184fc8","fromSide":"right","toNode":"8d78f179be0c6ef7","toSide":"left"},
+		{"id":"28f90f1ceebb7139","fromNode":"8d78f179be0c6ef7","fromSide":"top","toNode":"a548846a675fa89c","toSide":"bottom"},
+		{"id":"86c4a6a04e6b95d3","fromNode":"a2bb610ddd184fc8","fromSide":"right","toNode":"a548846a675fa89c","toSide":"left"},
+		{"id":"0c9460848d8aa259","fromNode":"8d78f179be0c6ef7","fromSide":"right","toNode":"9dfe701d394ad271","toSide":"left"},
+		{"id":"1c59dd1edff25a9d","fromNode":"a548846a675fa89c","fromSide":"right","toNode":"9dfe701d394ad271","toSide":"left"},
+		{"id":"9eb3e92162e40581","fromNode":"c8e596a72d6a82a6","fromSide":"right","toNode":"e05aaaf5e611bc30","toSide":"left"},
+		{"id":"0f9a441b7577dafa","fromNode":"2fdfd5892306d37c","fromSide":"right","toNode":"22c6bc158005546c","toSide":"left"},
+		{"id":"d49766a7cae111b2","fromNode":"8d78f179be0c6ef7","fromSide":"right","toNode":"2fdfd5892306d37c","toSide":"left"},
+		{"id":"f5495177417d6438","fromNode":"9dfe701d394ad271","fromSide":"bottom","toNode":"2fdfd5892306d37c","toSide":"top"},
+		{"id":"729c1de63e18d29d","fromNode":"a548846a675fa89c","fromSide":"right","toNode":"2fdfd5892306d37c","toSide":"top"},
+		{"id":"3b2914c48e9c34cb","fromNode":"c8e596a72d6a82a6","fromSide":"left","toNode":"2fdfd5892306d37c","toSide":"right"}
+	]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "scratch-trail-guide",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/CodeVA-Curriculum/scratch-trail-guide.git",
+  "author": "octojon <mail@octojon.dev>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+  	"setup": "yarn --cwd ./trail-guide/",
+  	"dev": "yarn --cwd ./trail-guide/ dev"
+  }
+}

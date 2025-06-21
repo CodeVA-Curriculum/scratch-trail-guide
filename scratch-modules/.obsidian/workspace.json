@@ -1,0 +1,204 @@
+{
+  "main": {
+    "id": "6b0cb8b637b0efc1",
+    "type": "split",
+    "children": [
+      {
+        "id": "439da398741a17d1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "35be9afe9010bb68",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fdcc789e1ade10ef",
+    "type": "split",
+    "children": [
+      {
+        "id": "b26551d9c0a6a112",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "13f582c70ebb6f3c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b50df2654fbc50f8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "094426cf92503871",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f5ab30d72623d48f",
+    "type": "split",
+    "children": [
+      {
+        "id": "a0b18191626fb75a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4fbc74446f737523",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "1330404c09bcfd31",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "38643aed275ced42",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a4a74dff11b19cae",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "35be9afe9010bb68",
+  "lastOpenFiles": [
+    "meta.md",
+    "applications/draw-with-mouse.md",
+    "projects/collect-game/prompt.md",
+    "projects/cooking-game/prompt.md",
+    "projects/dino-game/prompt.md",
+    "projects/spooky-prank/prompt.md",
+    "projects/tell-a-story/prompt.md",
+    "projects/tell-a-story/index.md",
+    "projects/spooky-prank/index.md",
+    "projects/cooking-game",
+    "projects/collect-game",
+    "projects/spooky-prank/randomization.md",
+    "projects/spooky-prank/jumpscare.md",
+    "projects/spooky-prank/slideshow.md",
+    "concepts/backdrop-switches.md",
+    "projects/music-funny/index.md",
+    "projects/music-funny/custom-sound-trigger-blocks.md",
+    "projects/music-funny/backdrop-timing.md",
+    "projects/music-funny/beatbox-program.md",
+    "projects/tell-a-story",
+    "projects/tell-a-story.md",
+    "projects/dino-game/index.md",
+    "region-map.canvas",
+    "projects/spooky-prank",
+    "projects/music-funny",
+    "applications/Untitled.md",
+    "concepts/sprite-basics.md",
+    "applications/getting-started.md",
+    "applications/fixing-hidden-sprite.md",
+    "applications/randomized-sounds.md",
+    "applications/blow-out-candles.md",
+    "applications/set-vs-change.md",
+    "projects/dino-game",
+    "projects/fortune-teller",
+    "projects",
+    "concepts",
+    "applications"
+  ]
+}
