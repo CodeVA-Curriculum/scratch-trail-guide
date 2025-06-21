@@ -7,17 +7,18 @@ nodes:
 	slideshow:
 		- applications/getting-started.md
 		- concepts/event-blocks.md
-		- applications/adding-images.md {optional}
 		- concepts/looks-blocks.md
+		- applications/adding-images.md {optional}
 		- concepts/control-blocks.md
 		- ./slideshow.md
 	scare:
+		- $slideshow
 		- concepts/sprite-basics.md
 		- applications/hiding-and-showing-sprites.md
 		- concepts/sound-blocks.md
-		- ./jumpscare.md
 		- concepts/operator-blocks.md {optional}
 		- ./randomization.md {optional}
+		- ./jumpscare-prompt
 ---
 
 In this project, you'll learn how to create a fun prank in Scratch with a fake slideshow that features a spooky surprise! 

@@ -1,4 +1,4 @@
 ---
 title: What Is a Sprite?
-video: "TODO:"
+video: TODO
 ---

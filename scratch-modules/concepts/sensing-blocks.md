@@ -1,4 +1,4 @@
 ---
-title: How to Use Sensing Blocks
+title: All About Sensing Blocks
 video: https://www.youtube.com/watch?v=cWmerjLApck
 ---

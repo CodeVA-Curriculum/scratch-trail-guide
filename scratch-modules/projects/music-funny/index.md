@@ -6,21 +6,19 @@ difficulty: 1
 nodes:
 	basic:
 		- applications/getting-started.md
-		- concepts/event-blocks.md
 		- concepts/sound-blocks.md
+		- concepts/event-blocks.md
+		- concepts/looks-blocks.md
 		- applications/adding-images.md {optional}
 		- applications/bitmap-tools.md {optional}
 		- applications/vector-tools.md {optional}
 		- ./beatbox-program.md
 	sequence:
 		- $basic
-		- concepts/looks-blocks.md
 		- concepts/control-blocks.md
 		- ./backdrop-timing.md
 	sounds:
 		- $basic
-		- applications/record-sounds.md {optional}
-		- applications/customize-sounds.md {optional}
 		- concepts/custom-blocks.md
 		- ./custom-sound-trigger-blocks.md
 ---

@@ -4,17 +4,46 @@
     "type": "split",
     "children": [
       {
-        "id": "439da398741a17d1",
+        "id": "c00462ea0c77a4ae",
         "type": "tabs",
+        "dimension": 63.717948717948715,
         "children": [
           {
-            "id": "35be9afe9010bb68",
+            "id": "2e0b275985fc2f99",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "canvas",
+              "state": {
+                "file": "region-map.canvas",
+                "viewState": {
+                  "x": -1713.7179268490715,
+                  "y": 1632.0578393620115,
+                  "zoom": -2.716666666666669
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "region-map"
+            }
+          }
+        ]
+      },
+      {
+        "id": "0b00b9a22bb5f6ce",
+        "type": "tabs",
+        "dimension": 36.28205128205128,
+        "children": [
+          {
+            "id": "e7d672c32ba63ff1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "projects/cooking-game/cooking-controls.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "cooking-controls"
             }
           }
         ]
@@ -161,40 +190,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "35be9afe9010bb68",
+  "active": "e7d672c32ba63ff1",
   "lastOpenFiles": [
-    "meta.md",
-    "applications/draw-with-mouse.md",
-    "projects/collect-game/prompt.md",
-    "projects/cooking-game/prompt.md",
-    "projects/dino-game/prompt.md",
-    "projects/spooky-prank/prompt.md",
-    "projects/tell-a-story/prompt.md",
-    "projects/tell-a-story/index.md",
+    "projects/cooking-game/cooking-prompt.md",
+    "projects/cooking-game/index.md",
+    "concepts/video-blocks.md",
+    "concepts/variables-blocks.md",
+    "concepts/sprite-basics.md",
+    "concepts/sound-blocks.md",
+    "concepts/sensing-blocks.md",
+    "concepts/pen-blocks.md",
+    "concepts/operator-blocks.md",
+    "concepts/music-blocks.md",
+    "concepts/motion-blocks.md",
+    "concepts/microbit-blocks.md",
+    "concepts/makey-makey-blocks.md",
+    "concepts/looks-blocks.md",
+    "concepts/event-blocks.md",
+    "concepts/custom-blocks.md",
+    "concepts/control-blocks.md",
+    "concepts/comments.md",
+    "concepts/backdrop-switches.md",
+    "projects/tell-a-story/story-script.md",
+    "projects/tell-a-story/story-prompt.md",
+    "projects/tell-a-story/animation-goals.md",
+    "projects/spooky-prank/slideshow.md",
+    "projects/spooky-prank/randomization.md",
+    "projects/spooky-prank/jumpscare-prompt.md",
     "projects/spooky-prank/index.md",
+    "region-map.canvas",
     "projects/cooking-game",
     "projects/collect-game",
-    "projects/spooky-prank/randomization.md",
-    "projects/spooky-prank/jumpscare.md",
-    "projects/spooky-prank/slideshow.md",
-    "concepts/backdrop-switches.md",
-    "projects/music-funny/index.md",
-    "projects/music-funny/custom-sound-trigger-blocks.md",
-    "projects/music-funny/backdrop-timing.md",
-    "projects/music-funny/beatbox-program.md",
     "projects/tell-a-story",
-    "projects/tell-a-story.md",
-    "projects/dino-game/index.md",
-    "region-map.canvas",
     "projects/spooky-prank",
     "projects/music-funny",
-    "applications/Untitled.md",
-    "concepts/sprite-basics.md",
-    "applications/getting-started.md",
-    "applications/fixing-hidden-sprite.md",
-    "applications/randomized-sounds.md",
-    "applications/blow-out-candles.md",
-    "applications/set-vs-change.md",
     "projects/dino-game",
     "projects/fortune-teller",
     "projects",
