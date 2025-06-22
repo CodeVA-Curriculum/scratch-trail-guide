@@ -4,21 +4,21 @@ description: In this project, you'll learn how to create a fun prank in Scratch 
 difficulty: 1
 video: https://www.youtube.com/watch?v=PgUrJdVDRlc
 nodes:
-	slideshow:
-		- applications/getting-started.md
-		- concepts/event-blocks.md
-		- concepts/looks-blocks.md
-		- applications/adding-images.md {optional}
-		- concepts/control-blocks.md
-		- ./slideshow.md
-	scare:
-		- $slideshow
-		- concepts/sprite-basics.md
-		- applications/hiding-and-showing-sprites.md
-		- concepts/sound-blocks.md
-		- concepts/operator-blocks.md {optional}
-		- ./randomization.md {optional}
-		- ./jumpscare-prompt
+    slideshow:
+        - applications/getting-started.md
+        - concepts/event-blocks.md
+        - concepts/looks-blocks.md
+        - applications/adding-images.md {optional}
+        - concepts/control-blocks.md
+        - ./slideshow.md
+    scare:
+        - $slideshow
+        - concepts/sprite-basics.md
+        - applications/hiding-and-showing-sprites.md
+        - concepts/sound-blocks.md
+        - concepts/operator-blocks.md {optional}
+        - ./randomization.md {optional}
+        - ./jumpscare-prompt.md
 ---
 
 In this project, you'll learn how to create a fun prank in Scratch with a fake slideshow that features a spooky surprise! 
