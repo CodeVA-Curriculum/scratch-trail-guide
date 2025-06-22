@@ -4,33 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "c00462ea0c77a4ae",
-        "type": "tabs",
-        "dimension": 63.717948717948715,
-        "children": [
-          {
-            "id": "2e0b275985fc2f99",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "region-map.canvas",
-                "viewState": {
-                  "x": -1713.7179268490715,
-                  "y": 1632.0578393620115,
-                  "zoom": -2.716666666666669
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "region-map"
-            }
-          }
-        ]
-      },
-      {
         "id": "0b00b9a22bb5f6ce",
         "type": "tabs",
-        "dimension": 36.28205128205128,
         "children": [
           {
             "id": "e7d672c32ba63ff1",
@@ -38,15 +13,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projects/cooking-game/cooking-controls.md",
+                "file": "applications/adding-images.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "cooking-controls"
+              "title": "adding-images"
+            }
+          },
+          {
+            "id": "e7e7195d2a0bd509",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "region-map.canvas",
+                "viewState": {
+                  "x": -820.8319272238241,
+                  "y": -425.1611288396448,
+                  "zoom": -1.6383080962285939
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "region-map"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -190,10 +183,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e7d672c32ba63ff1",
+  "active": "e7e7195d2a0bd509",
   "lastOpenFiles": [
-    "projects/cooking-game/cooking-prompt.md",
     "projects/cooking-game/index.md",
+    "applications/adding-images.md",
+    "applications/add-gifs.md",
+    "projects/cooking-game/cooking-controls.md",
+    "projects/cooking-game/cooking-prompt.md",
     "concepts/video-blocks.md",
     "concepts/variables-blocks.md",
     "concepts/sprite-basics.md",
@@ -215,9 +211,6 @@
     "projects/tell-a-story/story-prompt.md",
     "projects/tell-a-story/animation-goals.md",
     "projects/spooky-prank/slideshow.md",
-    "projects/spooky-prank/randomization.md",
-    "projects/spooky-prank/jumpscare-prompt.md",
-    "projects/spooky-prank/index.md",
     "region-map.canvas",
     "projects/cooking-game",
     "projects/collect-game",
