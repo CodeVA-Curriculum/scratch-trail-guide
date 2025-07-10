@@ -37,7 +37,7 @@
 		{"id":"660ad21a42a0d1f5","type":"file","file":"applications/remove-backgrounds.md","x":-120,"y":-2800,"width":400,"height":400},
 		{"id":"e904fb4353eb3520","type":"file","file":"projects/dino-game/dino-sprites.md","x":-840,"y":-3000,"width":400,"height":400},
 		{"id":"72780161c9e2aebf","type":"file","file":"projects/dino-game/dino-movement-goals.md","x":-2040,"y":-3000,"width":400,"height":400},
-		{"id":"85571ce1e98d8888","x":-920,"y":-2400,"width":400,"height":400,"type":"file","file":"projects/tell-a-story/animation-goals.md"},
+		{"id":"85571ce1e98d8888","type":"file","file":"projects/tell-a-story/animation-goals.md","x":-920,"y":-2400,"width":400,"height":400},
 		{"id":"605c56a2190d0a50","type":"file","file":"applications/getting-started.md","x":-3240,"y":-2400,"width":400,"height":400}
 	],
 	"edges":[
@@ -104,6 +104,7 @@
 		{"id":"343123b5bb4f9244","fromNode":"9dcf04884326282f","fromSide":"bottom","toNode":"92d4b9d316654fcd","toSide":"top"},
 		{"id":"bf435ec9310e57a2","fromNode":"c28c671ad3fd6678","fromSide":"top","toNode":"26a57e98e9b12d75","toSide":"right"},
 		{"id":"8d85048b6ce56251","fromNode":"26a57e98e9b12d75","fromSide":"right","toNode":"85571ce1e98d8888","toSide":"left"},
-		{"id":"283077d4b2c3837b","fromNode":"85571ce1e98d8888","fromSide":"right","toNode":"998f039fc4b5dca3","toSide":"left"}
+		{"id":"283077d4b2c3837b","fromNode":"85571ce1e98d8888","fromSide":"right","toNode":"998f039fc4b5dca3","toSide":"left"},
+		{"id":"9dd3a5afc632a914","fromNode":"c28c671ad3fd6678","fromSide":"right","toNode":"a5c27583eb3a30a4","toSide":"left"}
 	]
 }
